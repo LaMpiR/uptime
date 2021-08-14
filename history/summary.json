@@ -4,18 +4,19 @@
     "url": "https://knjigocrvic.com",
     "icon": "https://favicons.githubusercontent.com/knjigocrvic.com",
     "slug": "knjigocrvic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 353,
-    "timeDay": 102,
-    "timeWeek": 184,
-    "timeMonth": 146,
-    "timeYear": 353,
+    "time": 352,
+    "timeDay": 86,
+    "timeWeek": 170,
+    "timeMonth": 144,
+    "timeYear": 352,
     "dailyMinutesDown": {
+      "2021-08-14": 0,
       "2021-03-11": 17
     }
   }

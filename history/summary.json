@@ -4,7 +4,7 @@
     "url": "https://knjigocrvic.com",
     "icon": "https://icons.duckduckgo.com/ip3/knjigocrvic.com.ico",
     "slug": "knjigocrvic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 593,
     "timeYear": 1009,
     "dailyMinutesDown": {
+      "2023-05-07": 0,
       "2023-03-19": 56,
       "2023-01-07": 15,
       "2023-01-06": 19,

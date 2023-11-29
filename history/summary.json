@@ -6,25 +6,23 @@
     "slug": "knjigocrvic",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.84%",
-    "time": 847,
-    "timeDay": 993,
-    "timeWeek": 741,
+    "time": 843,
+    "timeDay": 964,
+    "timeWeek": 716,
     "timeMonth": 616,
-    "timeYear": 519,
+    "timeYear": 514,
     "dailyMinutesDown": {
-      "2023-11-28": 8,
       "2023-11-23": 25,
       "2023-06-04": 17,
       "2023-03-19": 56,
       "2023-01-07": 15,
       "2023-01-06": 19,
       "2022-12-08": 19,
-      "2022-12-06": 640,
-      "2022-11-29": 39
+      "2022-12-06": 640
     }
   }
 ]

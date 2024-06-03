@@ -6,9 +6,9 @@
     "slug": "knjigocrvic",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 574,
     "timeDay": 500,
@@ -16,9 +16,7 @@
     "timeMonth": 585,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2024-06-02": 9,
-      "2023-11-23": 25,
-      "2023-06-04": 17
+      "2023-11-23": 25
     }
   }
 ]

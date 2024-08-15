@@ -4,18 +4,19 @@
     "url": "https://knjigocrvic.com",
     "icon": "https://icons.duckduckgo.com/ip3/knjigocrvic.com.ico",
     "slug": "knjigocrvic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 606,
-    "timeDay": 0,
-    "timeWeek": 626,
-    "timeMonth": 580,
-    "timeYear": 610,
+    "time": 654,
+    "timeDay": 24235,
+    "timeWeek": 3998,
+    "timeMonth": 1343,
+    "timeYear": 674,
     "dailyMinutesDown": {
+      "2024-08-15": 0,
       "2023-11-23": 25
     }
   }
